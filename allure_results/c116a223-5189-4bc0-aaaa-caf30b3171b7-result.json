@@ -1,0 +1,1 @@
+{"name": "Получение ошибки при изменении имени у неавторизованного пользователя", "status": "skipped", "start": 1740322200186, "stop": 1740322200186, "uuid": "80cce37b-aa2e-44a2-885e-079d5593c8ef", "testCaseId": "2de57b64dfba096d9b6d32212e042a11", "fullName": "tests.test_change_user_info.TestChangeUserInfo#test_change_not_auth_user_name"}
