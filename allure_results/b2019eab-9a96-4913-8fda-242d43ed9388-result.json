@@ -1,1 +1,0 @@
-{"name": "Успешное создание заказа авторизованного пользователя с передачей ингридиентов", "status": "skipped", "start": 1740322223010, "stop": 1740322223010, "uuid": "8231a0fd-4b93-40f5-b15a-c9d1644c2167", "testCaseId": "ff3914ece9187154c4bd3952ea764267", "fullName": "tests.test_make_an_order.TestMakeAnOrder#test_make_an_order_auth_user"}

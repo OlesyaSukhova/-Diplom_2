@@ -1,1 +1,0 @@
-{"name": "Успешное изменение имени у авторизованного пользователя", "status": "skipped", "start": 1740319690273, "stop": 1740319690273, "uuid": "f1f4cecf-fdf2-4797-a9c2-2669a3ebe9e3", "testCaseId": "c5dc7d4085cc6297ef917494b8ef2c8d", "fullName": "tests.test_change_user_info.TestChangeUserInfo#test_change_auth_user_name"}

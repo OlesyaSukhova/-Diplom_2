@@ -1,13 +1,10 @@
 import pytest
 import requests
 
-from helper import Url, generate_user_body
+from curl import Url
+from helper import generate_user_body
 from methods.user_methods import UserMethods
 
-
-@pytest.fixture(scope='function')
-def user_methods():
-    return UserMethods()
 
 @pytest.fixture(scope='function')
 def generate_user_data():
